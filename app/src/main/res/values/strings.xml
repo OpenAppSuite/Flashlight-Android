@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="icon_on">turn flashlight on icon</string>
+    <string name="icon_off">turn flashlight off icon</string>
+    <string name="not_found">No flashlight found.</string>
+    <string name="low_brightness_icon">low brightness icon</string>
+    <string name="max_brightness_icon">max brightness Icon</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taschenlampe</string>
+    <string name="icon_on">Taschenlampe anschalten Symbol</string>
+    <string name="icon_off">Taschenlampe ausschalten Symbol</string>
+    <string name="not_found">Keine Blitzlicht gefunden.</string>
+    <string name="low_brightness_icon">niedrige Helligkeit Symbol</string>
+    <string name="max_brightness_icon">maximale Helligkeit Symbol</string>
+</resources>
